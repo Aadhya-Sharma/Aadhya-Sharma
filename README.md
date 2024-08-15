@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 Currently diving into: The world of Blockchain innovation!<br>📄 Know about my experiences: Research Intern @ NITI Aayog , Web Development Intern @ Anglerfox<br>🎲 Fun fact: I love refactoring code almost as much as writing it.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 Currently diving into: The world of Blockchain innovation!<br>📄 Know about my experiences: Research Intern @NITI Aayog , Web Development Intern @Anglerfox<br>🎲 Fun fact: I love refactoring code almost as much as writing it.</p>
 
 ###
 
@@ -68,7 +68,11 @@
 
 ###
 
-<div align="center">
+<h2 align="left">Connect with me</h2>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/aadhya-sharma9" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -78,3 +82,8 @@
 </div>
 
 ###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aadhya-Sharma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
