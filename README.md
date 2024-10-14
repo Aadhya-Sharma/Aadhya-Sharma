@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 Currently diving into: The world of Blockchain innovation!<br>📄 Know about my experiences: Research Intern @NITI Aayog , Web Development Intern @Anglerfox<br>🎲 Fun fact: I love refactoring code almost as much as writing it.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 Currently diving into: The world of Blockchain innovation!<br>📄 Know about my experiences:  Web Development Intern @Anglerfox , Ex- Research Intern @NITI Aayog<br>🎲 Fun fact: I love refactoring code almost as much as writing it.</p>
 
 ###
 
